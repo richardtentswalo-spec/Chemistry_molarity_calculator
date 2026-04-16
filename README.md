@@ -10,4 +10,3 @@ This is a simple Python project that performs basic chemistry calculations.
 - python
 ## Author 
 - Rabapane Tentswalo Richard
-- 
